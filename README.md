@@ -14,7 +14,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 <p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CunkouMaster&show_icons=true&theme=cobalt)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
 </p>
 <!--
 **CunkouMaster/CunkouMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
