@@ -4,7 +4,7 @@
   <samp>
     :wave: Hi! Nice to meet you.
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br>
+    <br><br>
   </samp>
 </p>
 <p>
